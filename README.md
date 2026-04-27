@@ -2,7 +2,7 @@
 
 **Autore:** Brentan Niccolò  
 **Classe:** 3D  
-**Anno scolastico:** 2025/2026  
+**Anno scolastico:** 2025/2026 
 
 ---
 
